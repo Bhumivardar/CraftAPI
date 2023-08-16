@@ -42,7 +42,7 @@ an idea to make this library, you are welcome to create an issue ticker or pull 
 requests if possible.
 
 ## Maven repository
-#bhumkia
+# bhumika
 ```xml
 	<repositories>
         <!-- CodeMc -->
@@ -76,3 +76,4 @@ Inspired by
 * [Mojang Authlib](https://github.com/Techcable/Authlib)
 * [Mojang AccountsClient](https://github.com/JonMcPherson/AccountsClient/)
 * [API proxy Interceptor](https://github.com/Shevchik/MojangAPIProxy)
+# Bhumika
