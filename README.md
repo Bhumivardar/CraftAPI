@@ -42,7 +42,7 @@ an idea to make this library, you are welcome to create an issue ticker or pull 
 requests if possible.
 
 ## Maven repository
-#bhumkia
+# bhumika
 ```xml
 	<repositories>
         <!-- CodeMc -->
@@ -52,7 +52,7 @@ requests if possible.
         </repository>
     </repositories>
 
-    <dependencies>
+    <dependenciesss>
         <!--Common component for contacting the Mojang API-->
         <dependency>
             <groupId>com.github.games647</groupId>
@@ -76,3 +76,5 @@ Inspired by
 * [Mojang Authlib](https://github.com/Techcable/Authlib)
 * [Mojang AccountsClient](https://github.com/JonMcPherson/AccountsClient/)
 * [API proxy Interceptor](https://github.com/Shevchik/MojangAPIProxy)
+# Bhumika
+vardar
